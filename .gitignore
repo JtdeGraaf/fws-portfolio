@@ -30,3 +30,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+/.idea/fws-portfolio.iml
+/.idea/git_toolbox_blame.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml

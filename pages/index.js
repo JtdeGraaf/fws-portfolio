@@ -93,6 +93,7 @@ export default function Home() {
 
           <Socials className="mt-2 laptop:mt-5" />
         </div>
+        {Array.isArray(data.projects) && data.projects.length > 0 &&
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">Work.</h1>
 
@@ -108,7 +109,8 @@ export default function Home() {
             ))}
           </div>
         </div>
-
+        }
+        {Array.isArray(data.services) && data.services.length > 0 &&
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
           <h1 className="tablet:m-10 text-2xl text-bold">Services.</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
@@ -121,6 +123,7 @@ export default function Home() {
             ))}
           </div>
         </div>
+        }
         {/* This button should not go into production */}
         {process.env.NODE_ENV === "development" && (
           <div className="fixed bottom-5 right-5">
