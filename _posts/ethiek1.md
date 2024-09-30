@@ -3,8 +3,7 @@ date: '2024-09-29T20:38:13.649Z'
 title: Ethiek I - De drie Gratiën in mijn werk
 tagline: ''
 preview: ''
-image: >-
-  https://images.unsplash.com/photo-1657295791913-5074c912398e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=996&q=80
+image: /images/portfolio/gratien.jpg
 ---
 
 In mijn werk als backend developer, waar ik bedrijfsapplicaties ontwikkel, zie ik de drie op verschillende manieren terugkomen. Over het algemeen zie ik vooral Euphrosyne terugkomen in mijn werk. Alles wat ik doe heeft namelijk te maken met logica en het geven van instructies aan computers, wat (voor mij) een zekere mate van voldoening met zich meebrengt wanneer dingen goed werken en problemen worden opgelost. Al kan dit soms even duren.
