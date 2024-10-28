@@ -14,7 +14,32 @@ Dit betekent dat onze identiteit en gedachten niet langer vanzelfsprekend zijn, 
 
 # Verwerking 2:
 
-TODO
+Deze verwerking heb ik uitgevoerd met Daan Bonnevits.  
+De zin: “Begrippen leggen het dynamische, procesmatige van de realiteit stil.” (Braeckman et al., 2010, p. 128\)
+
+## Wat betekent de zin?
+
+Met de zin “Begrippen leggen het dynamische, procesmatige van de realiteit stil.” bedoelt Nietzsche dat wanneer we begrippen gebruiken om de realiteit te beschrijven dat we de voortdurende verandering stilzetten. Wij maken dus van de altijd veranderende realiteit, een een niet veranderend begrip. Het is dus alsof je van een bewegend object een foto maakt.
+
+## Wat betekent de tekst waarin de zin staat?
+
+Nietzsche komt tot de conclusie dat de reden dat wij die begrippen vaststellen is omdat wij op zoek zijn macht.
+
+**Waarom staat begrippen leggen aan de realiteit gelijk aan de wil van macht?**
+
+Door de altijd veranderende realiteit in vaste begrippen te stoppen, nemen we de levendigheid weg. Zo kunnen we de wereld beter controleren en voorspellen. Dit laat onze 'wil tot macht' zien, omdat we de werkelijkheid willen beheersen.
+
+## Hoe begrijp ik Nietzsche nu beter?
+
+Ik begrijp Nietzsche nu beter, omdat ik zijn mensbeeld beter begrijp. Hij denkt dat we de realiteit vastleggen in begrippen om deze te controleren, wat onze 'wil tot macht' laat zien.
+
+## Begrijp ik de tekst nu beter?
+
+Ja, ik begrijp de tekst nu beter, maar ik heb wel nog steeds veel moeite met de relatie tussen begrippen en de wil van macht.
+
+## Filosofische vraag
+
+In hoeverre kunnen we de werkelijkheid begrijpen, zonder deze in begrippen vast te stellen?
 
 # Verwerking 3: De betekenis van vrijheid in onze cultuur
 
