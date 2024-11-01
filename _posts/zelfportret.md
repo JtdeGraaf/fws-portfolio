@@ -120,6 +120,7 @@ Mijn beroep, software development is fantastisch. Ik houd van vrijwel alles dat 
 <span style="color: red;">Mijn beroepsidentiteit verschilt niet veel van mijn “normale” identiteit, het enige verschil is dat ik mijn werk en privéleven gescheiden probeer te houden. Dit betekent dat ik op het werk gefocust en professioneel ben, terwijl ik in mijn vrije tijd probeer te ontspannen. Ik zal op mijn werk dus niet zo snel beginnen over mijn privéleven, en ik heb het thuis ook liever niet over mijn werk.</span>
 
 **Hoe zie jij jezelf als onderdeel van het grote geheel (mensheid/samenleving/wereld/kosmos)?**
+
 Ik geloof niet in een groter geheel, ik ben slechts een persoon op deze wereld die er het beste van probeert te maken.
 
 ---
@@ -127,11 +128,13 @@ Ik geloof niet in een groter geheel, ik ben slechts een persoon op deze wereld d
 ### Inspiratiebronnen
 
 **Beschrijf personen, boeken, films die je inspireren.**
+
 Ik heb hier lang over nagedacht, maar ik heb niet echt duidelijke significante inspiratiebronnen, in ieder geval geen waarvan ik mij bewust ben.
 
 **Welke bronnen zou je willen aanboren?**
 
 **Welke betekenis hebben spirituele en/of religieuze inspiratie voor jou?**
+
 Geen, echt helemaal niks.
 
 ---
@@ -139,23 +142,29 @@ Geen, echt helemaal niks.
 ### Dromen en idealen
 
 **Wat zijn jouw persoonlijke dromen en idealen?**
+
 Ik droom ervan om zonder gezondheids- en financiële zorgen de wereld te kunnen ontdekken, en om tegelijkertijd ook een eigen thuis te bezitten. 
 
 <span style="color: red;">Te kunnen leven zonder agenda.</span>
 
 **Wat zijn jouw beroepsmatige dromen en idealen?**
+
 Ik droom ervan om ooit mijn eigen applicatie/software te kunnen verkopen onder mijn eigen naam, waarbij het idealiter ook gaat om een applicatie waarvan de wereld een betere of leukere plek van wordt.
 
 **Hoe ziet jouw ideale samenleving eruit?**
+
 De ideale samenleving is voor mij een plek waar iedereen naar elkaar omkijkt, waar iedereen zijn eigen steentje kan bijdragen op een manier die hen gelukkig maakt. Waar het mogelijk is om te kunnen dromen, en die ook de mogelijkheid biedt om deze te kunnen realiseren.
 
 **Wat versta je onder goed burgerschap? Hoe ziet voor jou ‘de goede burger’ eruit?**
+
 De goede burger is iemand die zich aan de regels, en aan de normen en waarden van de samenleving houdt waarin hij leeft. <span style="color: red;">Daarnaast levert de goede burger ook terug aan de samenleving, door te werken, of op een andere manier.</span>
 
 **Welke bijdrage wil jij als professional aan de samenleving leveren?**
+
 Ik zou graag ooit als professional software willen leveren waarvan mensen echt blij worden.
 
 **Hoe verhouden bovenstaande dromen en idealen zich met jouw levensoriëntatie?**
+
 Mijn dromen en idealen passen denk ik goed bij hoe ik in het leven sta. Een goed leven begint voor mij met de zekerheid over basisbehoeften. Daarna komt de vrijheid om te doen waar je naar verlangt en de mogelijkheid om je dromen waar te maken, mijn eigen persoonlijke dromen en idealen sluiten zich hier ook bij aan. Ik geloof in een samenleving waar mensen elkaar helpen en hun eigen bijdrage kunnen leveren op een manier die hen gelukkig maakt. Dit sluit aan bij mijn idee dat mensen vaak handelen uit eigenbelang, maar dat erkenning en een positief zelfbeeld ook belangrijk zijn.
 
 ---
